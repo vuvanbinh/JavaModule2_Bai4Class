@@ -2,7 +2,7 @@ package Bai4_Class.BAITAP;
 
 import java.util.Scanner;
 
-public class ThQuadraticEquation {
+public class RunQuadraticEquation {
     public static void main(String[] args) {
         Scanner sc= new Scanner(System.in);
         System.out.println("Enter a :");
